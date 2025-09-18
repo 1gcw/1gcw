@@ -1,6 +1,8 @@
-# 1gcw
-
-Developer Full Stack
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/5d/15/a3/5d15a39dc028c32530f2141ee95e142b.jpg" width="200"/>&nbsp;
+  <img src="https://i.pinimg.com/736x/51/3f/d2/513fd2ddfa9b7761018fc5a248e46a42.jpg" width="200"/>&nbsp;
+  <img src="https://i.pinimg.com/736x/18/13/f7/1813f7403112a31e8df8e8c7270ac5f6.jpg" width="200"/>
+</p>
 
 ---
 
@@ -67,10 +69,4 @@ I'm 18 years old and will be 19 in December. I'm passionate about Docker and Lin
 
 ---
 
-## Contact
-
-- GitHub: https://github.com/1gcw
-
----
-
-> Sorry, some information is incomplete as I couldn't find the icons...
+> Made with ❤ by <strong>Failed<strong/>.
