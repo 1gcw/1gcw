@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm destroy, and I'd love for you to get to know me better.
+Hi, I'm amv, and I'd love for you to get to know me better.
 I'm 18 years old and will be 19 in December. I'm passionate about Docker and Linux. Honestly, I love all types of Linux distributions!
 
 ---
