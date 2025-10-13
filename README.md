@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,kotlin,go,rust,php,cs,swift,ruby,lua,haskell,scala,dart,solidity,perl,clojure,elixir,fortran,matlab,ocaml,r,coffeescript,crystal,vala,react,vue,angular,svelte,nextjs,tailwind,redux,nodejs,express,nestjs,flask,django,laravel,spring,graphql,docker,kubernetes,aws,azure,gcp,jenkins,ansible,git,linux,windows,arch,kali,ubuntu,debian,mysql,postgres,mongodb,firebase,redis,elasticsearch,tensorflow,pytorch,opencv,scikitlearn,matlab,unity,unreal,blender,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,kotlin,go,rust,php,cs,swift,ruby,lua,haskell,scala,dart,solidity,perl,clojure,elixir,fortran,matlab,ocaml,r,coffeescript,crystal,vala,react,vue,angular,svelte,nextjs,tailwind,redux,nodejs,express,nestjs,flask,django,laravel,spring,graphql,docker,kubernetes,aws,azure,gcp,jenkins,ansible,git,linux,windows,arch,kali,ubuntu,debian,mysql,postgres,mongodb,firebase,redis,elasticsearch,tensorflow,pytorch,opencv,scikitlearn,matlab,unity,unreal,blender,bash,visualstudio,vscode,robloxstudio&theme=dark" />
 </div>
 
 ---
